@@ -1,8 +1,10 @@
 ## Hey, I'm Priyansh Saha
 
->>> I'm a first year data science undergrad from IIT Mandi
->>> I enjoy competitive programming and levelling up my skills
->>> Feel free to let me know how i can improve my coding style
+- I'm a first year data science undergrad from IIT Mandi
+- I enjoy competitive programming and levelling up my skills
+- Feel free to let me know how i can improve my coding style
+- 
+https://github-readme-stats.vercel.app/api?username=ps-cpu&show_icons=true&theme=transparent
 
 <!--
 **ps-cpu/ps-cpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
