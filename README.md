@@ -6,7 +6,7 @@
 - 
 <div align = "center" style="display: flex; flex-direction: row;">
  <img align="center" style = "padding:2rem" src="https://github-readme-stats.vercel.app/api?username=ps-cpu&count_private=true&show_icons=true&theme=transparent&hide=stars" />
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ps-cpu&layout=compact&theme=transparent" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ps-cpu&layout=compact&langs_count=8&card_width=320&theme=transparent" />
 </div>
 
 <!--
