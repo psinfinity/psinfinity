@@ -5,8 +5,8 @@
 - Feel free to let me know how i can improve my coding style
 
 <div align = "center" style="display: flex; flex-direction: row;">
- <img align="center" style = "padding:2rem" src="https://github-readme-stats.vercel.app/api?username=ps-cpu&count_private=true&show_icons=true&theme=transparent&hide=stars" />
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ps-cpu&layout=compact&theme=transparent" />
+ <img align="center" style = "padding:2rem" src="https://github-readme-stats.vercel.app/api?username=psinfinity&count_private=true&show_icons=true&theme=transparent&hide=stars" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=psinfinity&layout=compact&theme=transparent" />
 </div>
  <br>
  <div style="display: flex; flex-direction: row;">
